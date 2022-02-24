@@ -57,3 +57,11 @@ p{
     line-height: 60px;
     margin: 25px 0;
 }
+.btn{
+display: inline-block;
+background: lightgreen;
+color: #000;
+padding: 10px 20px;
+border-radius: 5px;
+
+}

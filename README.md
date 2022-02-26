@@ -14,14 +14,14 @@
 
 ## Requirements
 
-####  a. Software Requirements: (Example)
+####  a. Software Requirements: 
 #### ∙ Windows 10
 #### ∙ Sql Server (Local server using Xamp)
 #### ∙ Visual Studio Code
-#### b. Hardware Components: (Example)
+#### b. Hardware Components: 
 #### ∙ Processor – i3
-#### ∙ Hard Disk – 5 GB
-#### ∙ Memory – 1GB RAM
+#### ∙ Hard Disk – 20 GB
+#### ∙ Memory – 4GB RAM (minimum)
 
 ## Website stucture 
 ![Drawing4](https://user-images.githubusercontent.com/59665707/155842372-13df9676-6ba9-4e90-a58d-9b6c0ccbec62.png)

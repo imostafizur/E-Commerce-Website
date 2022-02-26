@@ -12,5 +12,16 @@
 #### 2.Xamp.
 #### 3.Microsoft Visio
 
+## Requirements
+
+####  a. Software Requirements: (Example)
+#### ∙ Windows 10
+#### ∙ Sql Server (Local server using Xamp)
+#### ∙ Visual Studio Code
+#### b. Hardware Components: (Example)
+#### ∙ Processor – i3
+#### ∙ Hard Disk – 5 GB
+#### ∙ Memory – 1GB RAM
+
 ## Website stucture 
 ![Drawing4](https://user-images.githubusercontent.com/59665707/155842372-13df9676-6ba9-4e90-a58d-9b6c0ccbec62.png)

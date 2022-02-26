@@ -1,4 +1,6 @@
 # E-commerce Website
 ### This Repository contains the code for the e-commerce website.
 ###### The website is a shopping cart website.
-![Drawing4](https://user-images.githubusercontent.com/59665707/155842288-5dbc418b-9123-472c-a7af-cb301dea55c0.png)
+
+##Website stucture 
+![Drawing4](https://user-images.githubusercontent.com/59665707/155842372-13df9676-6ba9-4e90-a58d-9b6c0ccbec62.png)

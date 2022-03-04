@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UFT-8">
+        <title>E-commerce Website</title>
+        <link rel="stylesheet" href="stylesheet.css">
+
+      
+
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    </head>
+    <body>
+
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                       <img src="images/logo.png" width="125px">
+                    </div>
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="Purchase_History.html">Purchase History</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="Sing up.html">Sing up</a></li>
+                            <div class="dropdown">
+                                <li><a href="Product.html">Product </a></li>
+
+                                <div class="dropdown-content">
+                              
+                                  <li><a href="Mobile.html">Mobile</a></li>
+                                  <li><a href="Laptop.html">Laptop</a></li>
+                                  <li><a href="Speaker.html">Speaker</a></li>
+                                  <li><a href="Camera.html">Camera</a></li>
+
+                                   
+                                    
+                                </div>
+                                </div>
+                            </li>
+                        </ul>
+                       
+                    </nav>
+            </div>
+           
+            <div class="row">
+            <div class="col-2">
+                <h1>All Gadgets and electronics product in <br> One place !</h1>
+                <p>Your can buy your all Gadgets in one place by just a click.</p>
+                <br>
+                <a  href="Product.html" class="btn">&#10004;Shop Now</a>
+            </div>
+
+            <div class="col-2">
+                <img src="images/Home.jpg"  width="500">
+            </div>
+            </div>
+        </div>
+             
+       </body>     
+                  
+
+<!--------featured product-------->
+
+    <div class="categories">
+
+        <div class="small-container">
+            <div class="row">
+
+                <div class="col-3">
+                    <img src="images/Product_1.jpg" width="200">
+                </div>
+                    <div class="col-3">
+                    <img src="images/Product_2.jpg" width="200">
+                    </div>
+                    <div class="col-3">
+                    <img src="images/Product_3.jpg" width="200">
+                    </div>
+                
+        </div>
+        </div>
+
+    <!-----featured categories---->
+        
+     
+    <div class="small-container"›
+    <h3>Best Selling</h3>
+    <div class="row">
+        <div class="col-4">
+            <img src="images/Product_4.jpg" width="200">
+            <h4>Google Home mini</h4>
+            <img src="images/Product_5.jpg" width="200">
+            <h4>Google Home mini</h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                
+            </div>
+            <p>Price: Rs.999</p>
+</div>
+<div class="row">
+    <div class="col-4">
+        <img src="images/Product_4.jpg" width="200">
+        <h4>Google Home mini</h4>
+        <img src="images/Product_5.jpg" width="200">
+        <h4>Google Home mini</h4>
+        <div class="rating">
+            <i class="fa fa-star"></i>
+            
+        </div>
+        <p>Price: Rs.999</p>
+</div>
+
+    </div>
+   
+
+
+
+
+
+
+
+
+
+
+                    
+</html>
